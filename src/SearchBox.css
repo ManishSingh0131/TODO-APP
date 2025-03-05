@@ -1,0 +1,26 @@
+.InputBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100px ;
+}
+.inputTask{
+    height: 30px;
+    width: 200px;
+    border-radius: 15px;
+    border: 1px solid pink;
+    padding: 10px;
+    text-align: center;
+    font-size:large;
+    font-weight: bold;
+    color:burlywood;
+    }
+.btn{
+    border: 1px solid pink;
+    border-radius: 360px;
+    font-size:large;
+    font-weight: bold;
+    margin-left: 30px;
+    background-color: rgb(219, 197, 163);
+    color: brown;
+}    
